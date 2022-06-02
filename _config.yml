@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: HTML
     web_url: https://github.com/topics/html
-    image_url:
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
   - name: CSS
     web_url: https://github.com/topics/css
@@ -59,6 +59,8 @@ topics:
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
   
-  - name: Web design Ux/Ui
+  - name: Ux/Ui
+    web_url: https://github.com/topics/ux-ui
+    image_url: https://lh5.googleusercontent.com/2LEt7Z-0N1QCk8ITXnWkwlsKeEOPUt08FUhyVT18FcsKuHwzsWntaDl8btk4TMtplO7dPeQ4mwB9UFB5npk097TIcuxiyE_o7IRme1na9RH_havS2gyVbfNLpNX5OrY6G8vB_TRX
 
 theme: jekyll-theme-modernist
